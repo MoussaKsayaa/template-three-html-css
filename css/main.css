@@ -933,6 +933,7 @@ a {
   left: 0;
   height: 100%;
   background-color: var(--main-color);
+  transition: width 0.6s;
 }
 /* end skills section */
 /* start work steps section */
